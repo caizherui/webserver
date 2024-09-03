@@ -1,0 +1,1300 @@
+2024-09-02 21:12:47.424259 [info]: timer tick
+2024-09-02 21:12:52.424648 [info]: timer tick
+2024-09-02 21:12:57.424950 [info]: timer tick
+2024-09-02 21:12:59.965060 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.965120 [info]: adjust timer once
+2024-09-02 21:12:59.965320 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.965355 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.965364 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.965368 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.965371 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.965375 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.965378 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.965381 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.965384 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.965389 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.965392 [info]: Connection: keep-alive
+2024-09-02 21:12:59.965396 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.965399 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.965402 [info]: 
+2024-09-02 21:12:59.967276 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.967314 [info]: adjust timer once
+2024-09-02 21:12:59.967388 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.967410 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.967417 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.967421 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.967424 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.967427 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.967431 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.967434 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.967437 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.967440 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.967444 [info]: Connection: keep-alive
+2024-09-02 21:12:59.967447 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.967450 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.967454 [info]: 
+2024-09-02 21:12:59.968359 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.968399 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.968409 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.968413 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.968416 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.968420 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.968423 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.968427 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.968430 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.968433 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.968436 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.968447 [info]: Connection: keep-alive
+2024-09-02 21:12:59.968451 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.968454 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.968457 [info]: 
+2024-09-02 21:12:59.968488 [info]: adjust timer once
+2024-09-02 21:12:59.968645 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.968682 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.968690 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.968694 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.968697 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.968700 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.968703 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.968706 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.968709 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.968712 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.968715 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.968718 [info]: Connection: keep-alive
+2024-09-02 21:12:59.968721 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.968724 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.968727 [info]: 
+2024-09-02 21:12:59.968757 [info]: adjust timer once
+2024-09-02 21:12:59.968903 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.968940 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.968949 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.968953 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.968956 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.968959 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.968962 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.968965 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.968968 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.968971 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.968974 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.968977 [info]: Connection: keep-alive
+2024-09-02 21:12:59.968980 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.968982 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.968985 [info]: 
+2024-09-02 21:12:59.969015 [info]: adjust timer once
+2024-09-02 21:12:59.971833 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.971866 [info]: adjust timer once
+2024-09-02 21:12:59.972044 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.972072 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.972080 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.972084 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.972087 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.972090 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.972093 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.972096 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.972104 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.972108 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.972111 [info]: Connection: keep-alive
+2024-09-02 21:12:59.972114 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.972117 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.972120 [info]: 
+2024-09-02 21:12:59.973032 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.973057 [info]: adjust timer once
+2024-09-02 21:12:59.973076 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.973081 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.973085 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.973088 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.973091 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.973094 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.973097 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.973100 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.973103 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.973106 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.973109 [info]: Connection: keep-alive
+2024-09-02 21:12:59.973112 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.973115 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.973118 [info]: 
+2024-09-02 21:12:59.974233 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.974251 [info]: adjust timer once
+2024-09-02 21:12:59.974658 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.974673 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.974678 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.974681 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.974685 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.974688 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.974691 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.974693 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.974696 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.974699 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.974702 [info]: Connection: keep-alive
+2024-09-02 21:12:59.974706 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.974708 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.974711 [info]: 
+2024-09-02 21:12:59.977449 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.977511 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.977520 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.977524 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.977527 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.977530 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.977533 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.977536 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.977557 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.977560 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.977564 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.977567 [info]: Connection: keep-alive
+2024-09-02 21:12:59.977570 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.977573 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.977576 [info]: 
+2024-09-02 21:12:59.977621 [info]: adjust timer once
+2024-09-02 21:12:59.978109 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:12:59.978137 [info]: GET / HTTP/1.1
+2024-09-02 21:12:59.978144 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:12:59.978148 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.978151 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:12:59.978154 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.978157 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:12:59.978160 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.978163 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:12:59.978168 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.978172 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:12:59.978177 [info]: Connection: keep-alive
+2024-09-02 21:12:59.978180 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.978183 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:12:59.978185 [info]: 
+2024-09-02 21:12:59.978215 [info]: adjust timer once
+2024-09-02 21:13:01.833115 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.833167 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.833177 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.833181 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.833184 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.833188 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.833191 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.833194 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.833197 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.833199 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.833202 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.833205 [info]: Connection: keep-alive
+2024-09-02 21:13:01.833208 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.833211 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.833214 [info]: 
+2024-09-02 21:13:01.833256 [info]: adjust timer once
+2024-09-02 21:13:01.833880 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.833902 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.833908 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.833912 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.833915 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.833918 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.833921 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.833930 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.833934 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.833937 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.833940 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.833943 [info]: Connection: keep-alive
+2024-09-02 21:13:01.833946 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.833949 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.833951 [info]: 
+2024-09-02 21:13:01.833997 [info]: adjust timer once
+2024-09-02 21:13:01.834218 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.834234 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.834239 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.834243 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.834246 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.834249 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.834251 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.834254 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.834257 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.834260 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.834263 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.834266 [info]: Connection: keep-alive
+2024-09-02 21:13:01.834269 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.834272 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.834274 [info]: 
+2024-09-02 21:13:01.834319 [info]: adjust timer once
+2024-09-02 21:13:01.834798 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.834815 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.834819 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.834822 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.834825 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.834829 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.834831 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.834834 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.834837 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.834840 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.834843 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.834846 [info]: Connection: keep-alive
+2024-09-02 21:13:01.834849 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.834852 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.834854 [info]: 
+2024-09-02 21:13:01.834887 [info]: adjust timer once
+2024-09-02 21:13:01.835116 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.835129 [info]: adjust timer once
+2024-09-02 21:13:01.835136 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.835140 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.835143 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.835146 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.835153 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.835157 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.835160 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.835163 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.835166 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.835169 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.835171 [info]: Connection: keep-alive
+2024-09-02 21:13:01.835175 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.835177 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.835180 [info]: 
+2024-09-02 21:13:01.835631 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.835655 [info]: adjust timer once
+2024-09-02 21:13:01.835664 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.835679 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.835684 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.835688 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.835691 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.835694 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.835697 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.835700 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.835703 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.835706 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.835709 [info]: Connection: keep-alive
+2024-09-02 21:13:01.835712 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.835715 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.835718 [info]: 
+2024-09-02 21:13:01.836020 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.836037 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.836042 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.836045 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.836048 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.836051 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.836054 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.836057 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.836060 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.836063 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.836066 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.836069 [info]: Connection: keep-alive
+2024-09-02 21:13:01.836072 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.836075 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.836078 [info]: 
+2024-09-02 21:13:01.836121 [info]: adjust timer once
+2024-09-02 21:13:01.836513 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.836528 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.836532 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.836535 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.836542 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.836546 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.836548 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.836551 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.836554 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.836557 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.836560 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.836563 [info]: Connection: keep-alive
+2024-09-02 21:13:01.836566 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.836569 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.836571 [info]: 
+2024-09-02 21:13:01.836615 [info]: adjust timer once
+2024-09-02 21:13:01.836835 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.836851 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.836857 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.836860 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.836863 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.836866 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.836869 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.836872 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.836875 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.836878 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.836881 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.836884 [info]: Connection: keep-alive
+2024-09-02 21:13:01.836887 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.836889 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.836892 [info]: 
+2024-09-02 21:13:01.836936 [info]: adjust timer once
+2024-09-02 21:13:01.837182 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:01.837197 [info]: GET / HTTP/1.1
+2024-09-02 21:13:01.837201 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:01.837204 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.837207 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:01.837210 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.837213 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:01.837216 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.837219 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:01.837222 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.837225 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:01.837228 [info]: Connection: keep-alive
+2024-09-02 21:13:01.837231 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.837233 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:01.837236 [info]: 
+2024-09-02 21:13:01.837279 [info]: adjust timer once
+2024-09-02 21:13:02.425211 [info]: timer tick
+2024-09-02 21:13:02.861721 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.861769 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.861778 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.861782 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.861785 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.861789 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.861792 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.861795 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.861798 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.861800 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.861804 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.861806 [info]: Connection: keep-alive
+2024-09-02 21:13:02.861810 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.861813 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.861816 [info]: 
+2024-09-02 21:13:02.861843 [info]: adjust timer once
+2024-09-02 21:13:02.862112 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.862128 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.862133 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.862136 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.862139 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.862142 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.862145 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.862148 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.862151 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.862154 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.862157 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.862160 [info]: Connection: keep-alive
+2024-09-02 21:13:02.862162 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.862165 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.862168 [info]: 
+2024-09-02 21:13:02.862201 [info]: adjust timer once
+2024-09-02 21:13:02.862404 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.862422 [info]: adjust timer once
+2024-09-02 21:13:02.862431 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.862436 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.862439 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.862442 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.862445 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.862448 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.862451 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.862454 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.862457 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.862460 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.862463 [info]: Connection: keep-alive
+2024-09-02 21:13:02.862466 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.862469 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.862477 [info]: 
+2024-09-02 21:13:02.862769 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.862797 [info]: adjust timer once
+2024-09-02 21:13:02.862806 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.862820 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.862825 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.862829 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.862833 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.862835 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.862839 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.862842 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.862845 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.862848 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.862851 [info]: Connection: keep-alive
+2024-09-02 21:13:02.862854 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.862857 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.862860 [info]: 
+2024-09-02 21:13:02.863107 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.863125 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.863130 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.863133 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.863137 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.863140 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.863143 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.863146 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.863149 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.863152 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.863155 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.863157 [info]: Connection: keep-alive
+2024-09-02 21:13:02.863161 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.863163 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.863166 [info]: 
+2024-09-02 21:13:02.863200 [info]: adjust timer once
+2024-09-02 21:13:02.863385 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.863403 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.863409 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.863412 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.863415 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.863418 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.863421 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.863424 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.863427 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.863430 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.863433 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.863436 [info]: Connection: keep-alive
+2024-09-02 21:13:02.863443 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.863447 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.863450 [info]: 
+2024-09-02 21:13:02.863485 [info]: adjust timer once
+2024-09-02 21:13:02.863708 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.863724 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.863729 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.863732 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.863735 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.863739 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.863742 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.863745 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.863747 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.863751 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.863753 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.863756 [info]: Connection: keep-alive
+2024-09-02 21:13:02.863759 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.863762 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.863765 [info]: 
+2024-09-02 21:13:02.863798 [info]: adjust timer once
+2024-09-02 21:13:02.863993 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.864008 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.864013 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.864017 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.864020 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.864023 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.864025 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.864028 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.864031 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.864034 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.864037 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.864040 [info]: Connection: keep-alive
+2024-09-02 21:13:02.864043 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.864046 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.864049 [info]: 
+2024-09-02 21:13:02.864081 [info]: adjust timer once
+2024-09-02 21:13:02.864300 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.864314 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.864318 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.864322 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.864324 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.864327 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.864331 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.864336 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.864340 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.864374 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.864385 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.864388 [info]: Connection: keep-alive
+2024-09-02 21:13:02.864392 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.864395 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.864397 [info]: 
+2024-09-02 21:13:02.864430 [info]: adjust timer once
+2024-09-02 21:13:02.864612 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:02.864626 [info]: GET / HTTP/1.1
+2024-09-02 21:13:02.864630 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:02.864634 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.864637 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:02.864640 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.864642 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:02.864645 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.864648 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:02.864651 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.864654 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:02.864657 [info]: Connection: keep-alive
+2024-09-02 21:13:02.864660 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.864663 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:02.864665 [info]: 
+2024-09-02 21:13:02.864696 [info]: adjust timer once
+2024-09-02 21:13:03.342103 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.342160 [info]: adjust timer once
+2024-09-02 21:13:03.342181 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.342190 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.342196 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.342201 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.342206 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.342211 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.342215 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.342219 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.342223 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.342228 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.342232 [info]: Connection: keep-alive
+2024-09-02 21:13:03.342259 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.342265 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.342270 [info]: 
+2024-09-02 21:13:03.342710 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.342739 [info]: adjust timer once
+2024-09-02 21:13:03.342749 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.342764 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.342769 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.342773 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.342776 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.342779 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.342782 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.342791 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.342795 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.342798 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.342801 [info]: Connection: keep-alive
+2024-09-02 21:13:03.342804 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.342807 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.342810 [info]: 
+2024-09-02 21:13:03.343109 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.343128 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.343133 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.343137 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.343140 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.343143 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.343146 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.343149 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.343152 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.343155 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.343158 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.343161 [info]: Connection: keep-alive
+2024-09-02 21:13:03.343164 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.343166 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.343169 [info]: 
+2024-09-02 21:13:03.343208 [info]: adjust timer once
+2024-09-02 21:13:03.343450 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.343473 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.343480 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.343483 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.343486 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.343490 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.343493 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.343496 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.343498 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.343501 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.343504 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.343507 [info]: Connection: keep-alive
+2024-09-02 21:13:03.343510 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.343513 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.343516 [info]: 
+2024-09-02 21:13:03.343554 [info]: adjust timer once
+2024-09-02 21:13:03.343838 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.343873 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.343882 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.343887 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.343891 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.343895 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.343897 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.343905 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.343909 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.343912 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.343915 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.343918 [info]: Connection: keep-alive
+2024-09-02 21:13:03.343922 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.343925 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.343928 [info]: 
+2024-09-02 21:13:03.343954 [info]: adjust timer once
+2024-09-02 21:13:03.344231 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.344250 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.344256 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.344259 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.344262 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.344266 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.344268 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.344271 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.344274 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.344277 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.344280 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.344283 [info]: Connection: keep-alive
+2024-09-02 21:13:03.344286 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.344289 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.344292 [info]: 
+2024-09-02 21:13:03.344327 [info]: adjust timer once
+2024-09-02 21:13:03.344554 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.344574 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.344580 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.344583 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.344586 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.344589 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.344592 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.344595 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.344598 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.344601 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.344604 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.344607 [info]: Connection: keep-alive
+2024-09-02 21:13:03.344610 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.344613 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.344616 [info]: 
+2024-09-02 21:13:03.344653 [info]: adjust timer once
+2024-09-02 21:13:03.344902 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.344921 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.344928 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.344932 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.344935 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.344938 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.344945 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.344949 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.344951 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.344954 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.344957 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.344960 [info]: Connection: keep-alive
+2024-09-02 21:13:03.344963 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.344966 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.344969 [info]: 
+2024-09-02 21:13:03.345005 [info]: adjust timer once
+2024-09-02 21:13:03.345242 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.345255 [info]: adjust timer once
+2024-09-02 21:13:03.345262 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.345266 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.345269 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.345272 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.345275 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.345278 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.345281 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.345284 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.345287 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.345290 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.345293 [info]: Connection: keep-alive
+2024-09-02 21:13:03.345296 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.345298 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.345301 [info]: 
+2024-09-02 21:13:03.345574 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.345596 [info]: adjust timer once
+2024-09-02 21:13:03.345605 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.345618 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.345623 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.345626 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.345629 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.345632 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.345635 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.345638 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.345641 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.345644 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.345647 [info]: Connection: keep-alive
+2024-09-02 21:13:03.345651 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.345653 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.345656 [info]: 
+2024-09-02 21:13:03.657840 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.657876 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.657883 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.657886 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.657890 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.657914 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.657920 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.657923 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.657926 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.657929 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.657932 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.657945 [info]: Connection: keep-alive
+2024-09-02 21:13:03.657952 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.657955 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.657958 [info]: 
+2024-09-02 21:13:03.658041 [info]: adjust timer once
+2024-09-02 21:13:03.658534 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.658572 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.658584 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.658588 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.658592 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.658595 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.658598 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.658601 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.658604 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.658607 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.658610 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.658613 [info]: Connection: keep-alive
+2024-09-02 21:13:03.658616 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.658619 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.658622 [info]: 
+2024-09-02 21:13:03.658648 [info]: adjust timer once
+2024-09-02 21:13:03.658904 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.658925 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.658932 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.658936 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.658939 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.658942 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.658945 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.658948 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.658951 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.658954 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.658957 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.658960 [info]: Connection: keep-alive
+2024-09-02 21:13:03.658963 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.658966 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.658969 [info]: 
+2024-09-02 21:13:03.658996 [info]: adjust timer once
+2024-09-02 21:13:03.659694 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.659723 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.659731 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.659738 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.659742 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.659745 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.659763 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.659766 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.659769 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.659772 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.659774 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.659777 [info]: Connection: keep-alive
+2024-09-02 21:13:03.659780 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.659783 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.659786 [info]: 
+2024-09-02 21:13:03.659807 [info]: adjust timer once
+2024-09-02 21:13:03.660126 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.660149 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.660155 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.660158 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.660161 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.660165 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.660167 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.660170 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.660173 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.660176 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.660179 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.660199 [info]: Connection: keep-alive
+2024-09-02 21:13:03.660202 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.660205 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.660208 [info]: 
+2024-09-02 21:13:03.660241 [info]: adjust timer once
+2024-09-02 21:13:03.660593 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.660612 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.660618 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.660622 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.660625 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.660628 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.660631 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.660634 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.660637 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.660639 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.660642 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.660645 [info]: Connection: keep-alive
+2024-09-02 21:13:03.660648 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.660651 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.660654 [info]: 
+2024-09-02 21:13:03.660709 [info]: adjust timer once
+2024-09-02 21:13:03.660995 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.661010 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.661016 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.661019 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.661022 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.661025 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.661028 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.661031 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.661034 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.661037 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.661040 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.661042 [info]: Connection: keep-alive
+2024-09-02 21:13:03.661045 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.661048 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.661051 [info]: 
+2024-09-02 21:13:03.661099 [info]: adjust timer once
+2024-09-02 21:13:03.661547 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.661570 [info]: adjust timer once
+2024-09-02 21:13:03.661580 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.661595 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.661600 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.661604 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.661658 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.661687 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.661690 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.661693 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.661696 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.661699 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.661702 [info]: Connection: keep-alive
+2024-09-02 21:13:03.661705 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.661708 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.661711 [info]: 
+2024-09-02 21:13:03.662047 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.662062 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.662067 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.662070 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.662073 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.662076 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.662079 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.662082 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.662085 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.662088 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.662091 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.662094 [info]: Connection: keep-alive
+2024-09-02 21:13:03.662097 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.662104 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.662107 [info]: 
+2024-09-02 21:13:03.662154 [info]: adjust timer once
+2024-09-02 21:13:03.662481 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.662502 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.662509 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.662512 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.662515 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.662518 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.662521 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.662524 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.662527 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.662530 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.662533 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.662536 [info]: Connection: keep-alive
+2024-09-02 21:13:03.662539 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.662542 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.662545 [info]: 
+2024-09-02 21:13:03.662567 [info]: adjust timer once
+2024-09-02 21:13:03.876071 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.876122 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.876132 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.876136 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.876139 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.876142 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.876145 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.876148 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.876151 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.876154 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.876157 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.876160 [info]: Connection: keep-alive
+2024-09-02 21:13:03.876163 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.876180 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.876185 [info]: 
+2024-09-02 21:13:03.876229 [info]: adjust timer once
+2024-09-02 21:13:03.876569 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.876590 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.876596 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.876600 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.876603 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.876607 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.876609 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.876612 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.876615 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.876618 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.876621 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.876631 [info]: Connection: keep-alive
+2024-09-02 21:13:03.876635 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.876638 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.876641 [info]: 
+2024-09-02 21:13:03.876678 [info]: adjust timer once
+2024-09-02 21:13:03.876923 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.876939 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.876944 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.876948 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.876950 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.876954 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.876956 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.876959 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.876962 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.876965 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.876968 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.876971 [info]: Connection: keep-alive
+2024-09-02 21:13:03.876974 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.876977 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.876979 [info]: 
+2024-09-02 21:13:03.877014 [info]: adjust timer once
+2024-09-02 21:13:03.877243 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.877258 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.877263 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.877266 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.877269 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.877272 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.877275 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.877278 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.877281 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.877284 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.877287 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.877290 [info]: Connection: keep-alive
+2024-09-02 21:13:03.877293 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.877295 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.877298 [info]: 
+2024-09-02 21:13:03.877330 [info]: adjust timer once
+2024-09-02 21:13:03.877594 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.877628 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.877636 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.877640 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.877643 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.877646 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.877649 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.877652 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.877655 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.877662 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.877666 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.877669 [info]: Connection: keep-alive
+2024-09-02 21:13:03.877672 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.877674 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.877677 [info]: 
+2024-09-02 21:13:03.877701 [info]: adjust timer once
+2024-09-02 21:13:03.878255 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.878283 [info]: adjust timer once
+2024-09-02 21:13:03.878292 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.878306 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.878310 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.878313 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.878317 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.878319 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.878323 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.878326 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.878328 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.878331 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.878334 [info]: Connection: keep-alive
+2024-09-02 21:13:03.878337 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.878340 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.878343 [info]: 
+2024-09-02 21:13:03.878841 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.878858 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.878864 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.878867 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.878870 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.878873 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.878876 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.878879 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.878881 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.878884 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.878887 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.878890 [info]: Connection: keep-alive
+2024-09-02 21:13:03.878893 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.878896 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.878899 [info]: 
+2024-09-02 21:13:03.878933 [info]: adjust timer once
+2024-09-02 21:13:03.879164 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.879179 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.879184 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.879187 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.879190 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.879193 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.879196 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.879199 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.879206 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.879209 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.879212 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.879215 [info]: Connection: keep-alive
+2024-09-02 21:13:03.879218 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.879221 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.879223 [info]: 
+2024-09-02 21:13:03.879256 [info]: adjust timer once
+2024-09-02 21:13:03.879476 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.879490 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.879495 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.879498 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.879501 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.879504 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.879507 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.879510 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.879513 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.879516 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.879519 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.879522 [info]: Connection: keep-alive
+2024-09-02 21:13:03.879526 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.879531 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.879535 [info]: 
+2024-09-02 21:13:03.879569 [info]: adjust timer once
+2024-09-02 21:13:03.879788 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:03.879803 [info]: GET / HTTP/1.1
+2024-09-02 21:13:03.879807 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:03.879810 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.879813 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:03.879816 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.879819 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:03.879822 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.879825 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:03.879828 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.879830 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:03.879833 [info]: Connection: keep-alive
+2024-09-02 21:13:03.879836 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.879839 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:03.879842 [info]: 
+2024-09-02 21:13:03.879873 [info]: adjust timer once
+2024-09-02 21:13:04.053718 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.053777 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.053788 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.053792 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.053807 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.053814 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.053825 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.053828 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.053831 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.053834 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.053837 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.053840 [info]: Connection: keep-alive
+2024-09-02 21:13:04.053843 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.053846 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.053849 [info]: 
+2024-09-02 21:13:04.053881 [info]: adjust timer once
+2024-09-02 21:13:04.054592 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.054611 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.054617 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.054620 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.054623 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.054626 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.054629 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.054633 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.054636 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.054638 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.054642 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.054644 [info]: Connection: keep-alive
+2024-09-02 21:13:04.054647 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.054651 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.054654 [info]: 
+2024-09-02 21:13:04.054691 [info]: adjust timer once
+2024-09-02 21:13:04.054955 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.054971 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.054976 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.054979 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.054982 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.054985 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.054988 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.054991 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.054994 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.054997 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.055000 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.055003 [info]: Connection: keep-alive
+2024-09-02 21:13:04.055006 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.055008 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.055011 [info]: 
+2024-09-02 21:13:04.055043 [info]: adjust timer once
+2024-09-02 21:13:04.055265 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.055293 [info]: adjust timer once
+2024-09-02 21:13:04.055304 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.055318 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.055323 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.055326 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.055337 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.055340 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.055343 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.055346 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.055349 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.055352 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.055355 [info]: Connection: keep-alive
+2024-09-02 21:13:04.055358 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.055361 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.055364 [info]: 
+2024-09-02 21:13:04.055654 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.055670 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.055675 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.055679 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.055682 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.055685 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.055688 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.055691 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.055694 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.055697 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.055700 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.055703 [info]: Connection: keep-alive
+2024-09-02 21:13:04.055706 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.055709 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.055711 [info]: 
+2024-09-02 21:13:04.055763 [info]: adjust timer once
+2024-09-02 21:13:04.056001 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.056018 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.056024 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.056027 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.056030 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.056033 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.056036 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.056039 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.056042 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.056045 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.056048 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.056051 [info]: Connection: keep-alive
+2024-09-02 21:13:04.056054 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.056056 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.056059 [info]: 
+2024-09-02 21:13:04.056092 [info]: adjust timer once
+2024-09-02 21:13:04.056394 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.056411 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.056417 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.056420 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.056427 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.056431 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.056434 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.056437 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.056440 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.056444 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.056448 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.056451 [info]: Connection: keep-alive
+2024-09-02 21:13:04.056454 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.056457 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.056460 [info]: 
+2024-09-02 21:13:04.056494 [info]: adjust timer once
+2024-09-02 21:13:04.056756 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.056773 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.056778 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.056781 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.056784 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.056787 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.056790 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.056792 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.056796 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.056799 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.056801 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.056804 [info]: Connection: keep-alive
+2024-09-02 21:13:04.056807 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.056810 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.056813 [info]: 
+2024-09-02 21:13:04.056846 [info]: adjust timer once
+2024-09-02 21:13:04.057122 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.057136 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.057141 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.057145 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.057148 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.057151 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.057154 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.057157 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.057160 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.057163 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.057166 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.057169 [info]: Connection: keep-alive
+2024-09-02 21:13:04.057173 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.057176 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.057179 [info]: 
+2024-09-02 21:13:04.057212 [info]: adjust timer once
+2024-09-02 21:13:04.057500 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:04.057518 [info]: GET / HTTP/1.1
+2024-09-02 21:13:04.057523 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:13:04.057526 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.057529 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:13:04.057532 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.057535 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:13:04.057538 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.057541 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:13:04.057544 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.057547 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:13:04.057550 [info]: Connection: keep-alive
+2024-09-02 21:13:04.057553 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.057556 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:13:04.057559 [info]: 
+2024-09-02 21:13:04.057590 [info]: adjust timer once
+2024-09-02 21:13:07.425747 [info]: timer tick
+2024-09-02 21:13:12.425873 [info]: timer tick
+2024-09-02 21:13:17.426227 [info]: timer tick
+2024-09-02 21:13:22.426602 [info]: timer tick
+2024-09-02 21:13:27.427379 [info]: timer tick
+2024-09-02 21:13:32.427866 [info]: timer tick
+2024-09-02 21:13:37.429456 [info]: timer tick
+2024-09-02 21:13:42.429586 [info]: timer tick
+2024-09-02 21:13:42.642267 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:13:42.642324 [info]: adjust timer once
+2024-09-02 21:13:47.430299 [info]: timer tick
+2024-09-02 21:14:08.487591 [info]: timer tick
+2024-09-02 21:14:13.487914 [info]: timer tick
+2024-09-02 21:14:18.489274 [info]: timer tick
+2024-09-02 21:14:20.142530 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.142592 [info]: adjust timer once
+2024-09-02 21:14:20.142680 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.142738 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.142747 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.142750 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.142754 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.142757 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.142760 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.142763 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.142767 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.142770 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.142774 [info]: Connection: keep-alive
+2024-09-02 21:14:20.142777 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.142780 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.142783 [info]: 
+2024-09-02 21:14:20.143113 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.143155 [info]: adjust timer once
+2024-09-02 21:14:20.143207 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.143261 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.143265 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.143269 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.143272 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.143276 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.143285 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.143289 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.143292 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.143295 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.143298 [info]: Connection: keep-alive
+2024-09-02 21:14:20.143301 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.143304 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.143307 [info]: 
+2024-09-02 21:14:20.143611 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.143635 [info]: adjust timer once
+2024-09-02 21:14:20.143658 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.143674 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.143679 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.143683 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.143686 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.143689 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.143692 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.143696 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.143699 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.143702 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.143705 [info]: Connection: keep-alive
+2024-09-02 21:14:20.143708 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.143711 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.143714 [info]: 
+2024-09-02 21:14:20.144514 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.144540 [info]: adjust timer once
+2024-09-02 21:14:20.144569 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.144581 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.144585 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.144589 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.144592 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.144595 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.144598 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.144601 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.144604 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.144607 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.144610 [info]: Connection: keep-alive
+2024-09-02 21:14:20.144613 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.144616 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.144619 [info]: 
+2024-09-02 21:14:20.144910 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.144934 [info]: adjust timer once
+2024-09-02 21:14:20.144951 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.144965 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.144970 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.144974 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.144984 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.144987 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.144990 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.144993 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.144996 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.144999 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.145002 [info]: Connection: keep-alive
+2024-09-02 21:14:20.145006 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.145008 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.145011 [info]: 
+2024-09-02 21:14:20.145340 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.145362 [info]: adjust timer once
+2024-09-02 21:14:20.145377 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.145389 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.145393 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.145396 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.145399 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.145402 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.145405 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.145408 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.145411 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.145414 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.145417 [info]: Connection: keep-alive
+2024-09-02 21:14:20.145420 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.145423 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.145425 [info]: 
+2024-09-02 21:14:20.145728 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.145751 [info]: adjust timer once
+2024-09-02 21:14:20.145772 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.145787 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.145807 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.145810 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.145813 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.145816 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.145819 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.145823 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.145826 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.145829 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.145832 [info]: Connection: keep-alive
+2024-09-02 21:14:20.145835 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.145837 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.145840 [info]: 
+2024-09-02 21:14:20.146161 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.146174 [info]: adjust timer once
+2024-09-02 21:14:20.146192 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.146198 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.146201 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.146208 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.146212 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.146215 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.146218 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.146237 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.146240 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.146243 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.146246 [info]: Connection: keep-alive
+2024-09-02 21:14:20.146249 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.146252 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.146255 [info]: 
+2024-09-02 21:14:20.146568 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.146581 [info]: adjust timer once
+2024-09-02 21:14:20.146588 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.146593 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.146596 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.146599 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.146602 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.146605 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.146608 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.146611 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.146614 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.146617 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.146620 [info]: Connection: keep-alive
+2024-09-02 21:14:20.146623 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.146626 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.146644 [info]: 
+2024-09-02 21:14:20.146934 [info]: deal with the client(192.168.216.128)
+2024-09-02 21:14:20.146947 [info]: adjust timer once
+2024-09-02 21:14:20.146954 [info]: GET / HTTP/1.1
+2024-09-02 21:14:20.146958 [info]: Host: 192.168.216.128:9006
+2024-09-02 21:14:20.146961 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.146964 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-02 21:14:20.146967 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.146970 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-02 21:14:20.146973 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.146976 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-02 21:14:20.146979 [info]: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.146982 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-02 21:14:20.146985 [info]: Connection: keep-alive
+2024-09-02 21:14:20.146988 [info]: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.146991 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-02 21:14:20.146994 [info]: 
+2024-09-02 21:14:23.489697 [info]: timer tick
+2024-09-02 21:14:28.490625 [info]: timer tick

@@ -10,6 +10,12 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <sys/time.h>
+#include <stdio.h>
+#include <string>
+#include <stdarg.h>
+#include <time.h>
+#include <string.h>
+#include <stdarg.h>
 #include "../lock/lock.h"
 using namespace std;
 

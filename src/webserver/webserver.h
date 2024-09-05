@@ -27,7 +27,7 @@ public:
 
     void init(int port , string user, string passWord, string databaseName,
               int log_write , int opt_linger, int trigmode, int sql_num,
-              int thread_num, int close_log, int actor_model);
+              int thread_num, int actor_model);
 
     void thread_pool();
     void sql_pool();
@@ -35,9 +35,13 @@ public:
     void trig_mode();
     void eventListen();
     void eventLoop();
+
+    // 定时器相关处理项目
     void timer(int connfd, struct sockaddr_in client_address);
     void adjust_timer(util_timer *timer);
     void deal_timer(util_timer *timer, int sockfd);
+
+    // http连接请求相关
     bool dealclientdata();
     bool dealwithsignal(bool& timeout, bool& stop_server);
     void dealwithread(int sockfd);
@@ -48,7 +52,6 @@ public:
     int m_port;
     char *m_root;
     int m_log_write;
-    int m_close_log;
     int m_actormodel;
 
     int m_pipefd[2];

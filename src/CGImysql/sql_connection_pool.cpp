@@ -23,32 +23,20 @@ connection_pool *connection_pool::GetInstance()
 }
 
 //构造初始化
-void connection_pool::init(string url, string User, string PassWord, string DBName, int Port, int MaxConn, int close_log)
+void connection_pool::init(string url, string User, string PassWord, string DBName, int Port, int MaxConn)
 {
 	m_url = url;
 	m_Port = Port;
 	m_User = User;
 	m_PassWord = PassWord;
 	m_DatabaseName = DBName;
-	m_close_log = close_log;
 
 	for (int i = 0; i < MaxConn; i++)
 	{
 		MYSQL *con = NULL;
+		// 初始化数据库连接池
 		con = mysql_init(con);
-
-		if (con == NULL)
-		{
-			LOG_ERROR("MySQL Error");
-			exit(1);
-		}
 		con = mysql_real_connect(con, url.c_str(), User.c_str(), PassWord.c_str(), DBName.c_str(), Port, NULL, 0);
-
-		if (con == NULL)
-		{
-			LOG_ERROR("MySQL Error");
-			exit(1);
-		}
 		connList.push_back(con);
 		++m_FreeConn;
 	}
@@ -63,12 +51,8 @@ void connection_pool::init(string url, string User, string PassWord, string DBNa
 MYSQL *connection_pool::GetConnection()
 {
 	MYSQL *con = NULL;
-
-	if (0 == connList.size())
-		return NULL;
-
 	reserve.wait();
-	
+
 	lock.lock();
 
 	con = connList.front();
@@ -84,9 +68,6 @@ MYSQL *connection_pool::GetConnection()
 //释放当前使用的连接
 bool connection_pool::ReleaseConnection(MYSQL *con)
 {
-	if (NULL == con)
-		return false;
-
 	lock.lock();
 
 	connList.push_back(con);

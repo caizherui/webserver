@@ -11,8 +11,6 @@ public:
     Config();
     ~Config(){};
 
-    void parse_arg(int argc, char*argv[]);
-
     //端口号
     int PORT;
 
@@ -37,11 +35,17 @@ public:
     //线程池内的线程数量
     int thread_num;
 
-    //是否关闭日志
-    int close_log;
-
     //并发模型选择
     int actor_model;
+
+    // 用户名
+    string user;
+
+    // 密码
+    string passwd;
+
+    // 数据库名称
+    string databasename;
 };
 
 #endif

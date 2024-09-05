@@ -1,0 +1,657 @@
+2024-09-05 13:24:39.877547 [erro]: SELECT error:No database selected
+
+2024-09-05 13:26:34.526786 [erro]: SELECT error:No database selected
+
+2024-09-05 13:28:14.981515 [info]: timer tick
+2024-09-05 13:28:15.204027 [info]: deal with the client(192.168.216.128)
+2024-09-05 13:28:15.204169 [info]: GET / HTTP/1.1
+2024-09-05 13:28:15.204184 [info]: Host: 192.168.216.128:9010
+2024-09-05 13:28:15.204188 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 13:28:15.204192 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 13:28:15.204195 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 13:28:15.204198 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 13:28:15.204202 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 13:28:15.204205 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 13:28:15.204209 [info]: Accept-Encoding: gzip, deflate
+2024-09-05 13:28:15.204212 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-05 13:28:15.204215 [info]: Connection: keep-alive
+2024-09-05 13:28:15.204219 [info]: Upgrade-Insecure-Requests: 1
+2024-09-05 13:28:15.204222 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-05 13:28:15.204225 [info]: 
+2024-09-05 13:28:15.204242 [info]: request:HTTP/1.1 200 OK
+
+2024-09-05 13:28:15.204249 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-09-05 13:28:15.204253 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2024-09-05 13:28:15.204256 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2024-09-05 13:28:15.204263 [info]: adjust timer once
+2024-09-05 13:28:15.204755 [info]: send data to the client(192.168.216.128)
+2024-09-05 13:28:15.204769 [info]: adjust timer once
+2024-09-05 13:28:19.981899 [info]: timer tick
+2024-09-05 13:28:24.982345 [info]: timer tick
+2024-09-05 13:28:29.982481 [info]: timer tick
+2024-09-05 13:28:34.982860 [info]: timer tick
+2024-09-05 13:28:39.983667 [info]: timer tick
+2024-09-05 13:28:44.984426 [info]: timer tick
+2024-09-05 13:28:49.985492 [info]: timer tick
+2024-09-05 13:28:54.985620 [info]: timer tick
+2024-09-05 13:28:59.986251 [info]: timer tick
+2024-09-05 13:29:04.987135 [info]: timer tick
+2024-09-05 13:29:09.987814 [info]: timer tick
+2024-09-05 13:29:14.988430 [info]: timer tick
+2024-09-05 13:29:19.989299 [info]: timer tick
+2024-09-05 13:29:24.989905 [info]: timer tick
+2024-09-05 13:29:29.990608 [info]: timer tick
+2024-09-05 13:29:34.991136 [info]: timer tick
+2024-09-05 13:29:39.991445 [info]: timer tick
+2024-09-05 13:29:44.992381 [info]: timer tick
+2024-09-05 13:29:49.992926 [info]: timer tick
+2024-09-05 13:29:54.993889 [info]: timer tick
+2024-09-05 13:30:00.133170 [info]: timer tick
+2024-09-05 13:30:05.133624 [info]: timer tick
+2024-09-05 13:30:10.134570 [info]: timer tick
+2024-09-05 13:30:15.135184 [info]: timer tick
+2024-09-05 13:30:20.135391 [info]: timer tick
+2024-09-05 13:30:25.135589 [info]: timer tick
+2024-09-05 13:30:30.135824 [info]: timer tick
+2024-09-05 13:30:35.136733 [info]: timer tick
+2024-09-05 13:30:40.137407 [info]: timer tick
+2024-09-05 13:30:45.138604 [info]: timer tick
+2024-09-05 13:30:50.138843 [info]: timer tick
+2024-09-05 13:30:55.139621 [info]: timer tick
+2024-09-05 13:31:00.140086 [info]: timer tick
+2024-09-05 13:31:05.140424 [info]: timer tick
+2024-09-05 13:31:10.140763 [info]: timer tick
+2024-09-05 13:31:15.141521 [info]: timer tick
+2024-09-05 13:31:20.142065 [info]: timer tick
+2024-09-05 13:31:25.142587 [info]: timer tick
+2024-09-05 13:31:30.143261 [info]: timer tick
+2024-09-05 13:31:35.144312 [info]: timer tick
+2024-09-05 13:31:40.144875 [info]: timer tick
+2024-09-05 13:31:45.145158 [info]: timer tick
+2024-09-05 13:31:50.145953 [info]: timer tick
+2024-09-05 13:31:55.199435 [info]: timer tick
+2024-09-05 13:32:00.200235 [info]: timer tick
+2024-09-05 13:32:05.210300 [info]: timer tick
+2024-09-05 13:32:10.210648 [info]: timer tick
+2024-09-05 13:32:15.211304 [info]: timer tick
+2024-09-05 13:32:20.211702 [info]: timer tick
+2024-09-05 13:32:25.212324 [info]: timer tick
+2024-09-05 13:32:30.212504 [info]: timer tick
+2024-09-05 13:32:35.212881 [info]: timer tick
+2024-09-05 13:32:40.213650 [info]: timer tick
+2024-09-05 13:32:45.214152 [info]: timer tick
+2024-09-05 13:32:50.214771 [info]: timer tick
+2024-09-05 13:32:55.215179 [info]: timer tick
+2024-09-05 13:33:00.216001 [info]: timer tick
+2024-09-05 13:33:05.216630 [info]: timer tick
+2024-09-05 13:33:10.217404 [info]: timer tick
+2024-09-05 13:33:15.217846 [info]: timer tick
+2024-09-05 13:33:20.218755 [info]: timer tick
+2024-09-05 13:33:25.219010 [info]: timer tick
+2024-09-05 13:33:30.219617 [info]: timer tick
+2024-09-05 13:33:35.220455 [info]: timer tick
+2024-09-05 13:33:40.221452 [info]: timer tick
+2024-09-05 13:33:45.221621 [info]: timer tick
+2024-09-05 13:33:50.221901 [info]: timer tick
+2024-09-05 13:33:55.222785 [info]: timer tick
+2024-09-05 13:34:00.222871 [info]: timer tick
+2024-09-05 13:34:05.223741 [info]: timer tick
+2024-09-05 13:34:10.224564 [info]: timer tick
+2024-09-05 13:34:15.225512 [info]: timer tick
+2024-09-05 13:34:20.225977 [info]: timer tick
+2024-09-05 13:34:25.226762 [info]: timer tick
+2024-09-05 13:34:30.226899 [info]: timer tick
+2024-09-05 13:34:35.227153 [info]: timer tick
+2024-09-05 13:34:40.227980 [info]: timer tick
+2024-09-05 13:34:45.228642 [info]: timer tick
+2024-09-05 13:34:50.229606 [info]: timer tick
+2024-09-05 13:34:55.230375 [info]: timer tick
+2024-09-05 13:35:00.230688 [info]: timer tick
+2024-09-05 13:35:05.231143 [info]: timer tick
+2024-09-05 13:35:10.231824 [info]: timer tick
+2024-09-05 13:35:15.232874 [info]: timer tick
+2024-09-05 13:35:20.233404 [info]: timer tick
+2024-09-05 13:35:25.234280 [info]: timer tick
+2024-09-05 13:35:30.235057 [info]: timer tick
+2024-09-05 13:35:35.235685 [info]: timer tick
+2024-09-05 13:35:40.236707 [info]: timer tick
+2024-09-05 13:35:45.237524 [info]: timer tick
+2024-09-05 13:35:50.238389 [info]: timer tick
+2024-09-05 13:35:55.239108 [info]: timer tick
+2024-09-05 13:36:00.239312 [info]: timer tick
+2024-09-05 13:36:05.240269 [info]: timer tick
+2024-09-05 13:36:10.240537 [info]: timer tick
+2024-09-05 13:36:15.240842 [info]: timer tick
+2024-09-05 13:36:20.241592 [info]: timer tick
+2024-09-05 13:36:25.241649 [info]: timer tick
+2024-09-05 13:36:30.242280 [info]: timer tick
+2024-09-05 13:36:35.242518 [info]: timer tick
+2024-09-05 13:36:40.242762 [info]: timer tick
+2024-09-05 13:36:45.243216 [info]: timer tick
+2024-09-05 13:36:50.243475 [info]: timer tick
+2024-09-05 13:36:55.244615 [info]: timer tick
+2024-09-05 13:37:00.245031 [info]: timer tick
+2024-09-05 13:37:05.245732 [info]: timer tick
+2024-09-05 13:37:10.246390 [info]: timer tick
+2024-09-05 13:37:15.246541 [info]: timer tick
+2024-09-05 13:37:20.247064 [info]: timer tick
+2024-09-05 13:37:25.248042 [info]: timer tick
+2024-09-05 13:37:30.248445 [info]: timer tick
+2024-09-05 13:37:35.249244 [info]: timer tick
+2024-09-05 13:37:40.249481 [info]: timer tick
+2024-09-05 13:37:45.250450 [info]: timer tick
+2024-09-05 13:37:50.250795 [info]: timer tick
+2024-09-05 13:37:55.251878 [info]: timer tick
+2024-09-05 13:38:00.252893 [info]: timer tick
+2024-09-05 13:38:05.254088 [info]: timer tick
+2024-09-05 13:38:10.254721 [info]: timer tick
+2024-09-05 13:38:15.254948 [info]: timer tick
+2024-09-05 13:38:20.255235 [info]: timer tick
+2024-09-05 13:38:25.256601 [info]: timer tick
+2024-09-05 13:38:30.256939 [info]: timer tick
+2024-09-05 13:38:35.257703 [info]: timer tick
+2024-09-05 13:38:40.258275 [info]: timer tick
+2024-09-05 13:38:45.258669 [info]: timer tick
+2024-09-05 13:38:50.259284 [info]: timer tick
+2024-09-05 13:38:55.260082 [info]: timer tick
+2024-09-05 13:39:00.260494 [info]: timer tick
+2024-09-05 13:39:05.261567 [info]: timer tick
+2024-09-05 13:39:10.261842 [info]: timer tick
+2024-09-05 13:39:15.262727 [info]: timer tick
+2024-09-05 13:39:20.263417 [info]: timer tick
+2024-09-05 13:39:25.264043 [info]: timer tick
+2024-09-05 13:39:30.264632 [info]: timer tick
+2024-09-05 13:39:35.265162 [info]: timer tick
+2024-09-05 13:39:40.265540 [info]: timer tick
+2024-09-05 13:39:45.266368 [info]: timer tick
+2024-09-05 13:39:50.267158 [info]: timer tick
+2024-09-05 13:39:55.268152 [info]: timer tick
+2024-09-05 13:40:00.268920 [info]: timer tick
+2024-09-05 13:40:05.269533 [info]: timer tick
+2024-09-05 13:40:10.269789 [info]: timer tick
+2024-09-05 13:40:15.269913 [info]: timer tick
+2024-09-05 13:40:20.270342 [info]: timer tick
+2024-09-05 13:40:25.270441 [info]: timer tick
+2024-09-05 13:40:30.270918 [info]: timer tick
+2024-09-05 13:40:35.271078 [info]: timer tick
+2024-09-05 13:40:40.271452 [info]: timer tick
+2024-09-05 13:40:45.271850 [info]: timer tick
+2024-09-05 13:40:50.272060 [info]: timer tick
+2024-09-05 13:40:55.272988 [info]: timer tick
+2024-09-05 13:41:00.273655 [info]: timer tick
+2024-09-05 13:41:05.273961 [info]: timer tick
+2024-09-05 13:41:10.274341 [info]: timer tick
+2024-09-05 13:41:15.274644 [info]: timer tick
+2024-09-05 13:41:20.275647 [info]: timer tick
+2024-09-05 13:41:25.276821 [info]: timer tick
+2024-09-05 13:41:30.277084 [info]: timer tick
+2024-09-05 13:41:35.278187 [info]: timer tick
+2024-09-05 13:41:40.278607 [info]: timer tick
+2024-09-05 13:41:45.279591 [info]: timer tick
+2024-09-05 13:41:50.280673 [info]: timer tick
+2024-09-05 13:41:55.281140 [info]: timer tick
+2024-09-05 13:42:00.281280 [info]: timer tick
+2024-09-05 13:42:05.282345 [info]: timer tick
+2024-09-05 13:42:10.283318 [info]: timer tick
+2024-09-05 13:42:15.283778 [info]: timer tick
+2024-09-05 13:42:20.284264 [info]: timer tick
+2024-09-05 13:42:25.285166 [info]: timer tick
+2024-09-05 13:42:30.285682 [info]: timer tick
+2024-09-05 13:42:35.286546 [info]: timer tick
+2024-09-05 13:42:40.287522 [info]: timer tick
+2024-09-05 13:42:45.287675 [info]: timer tick
+2024-09-05 13:42:50.288097 [info]: timer tick
+2024-09-05 13:42:55.289025 [info]: timer tick
+2024-09-05 13:43:00.289168 [info]: timer tick
+2024-09-05 13:43:05.289438 [info]: timer tick
+2024-09-05 13:43:10.290077 [info]: timer tick
+2024-09-05 13:43:15.290205 [info]: timer tick
+2024-09-05 13:43:20.291213 [info]: timer tick
+2024-09-05 13:43:25.291846 [info]: timer tick
+2024-09-05 13:43:30.291909 [info]: timer tick
+2024-09-05 13:43:35.292268 [info]: timer tick
+2024-09-05 13:43:40.293032 [info]: timer tick
+2024-09-05 13:43:45.293113 [info]: timer tick
+2024-09-05 13:43:50.293342 [info]: timer tick
+2024-09-05 13:43:55.293620 [info]: timer tick
+2024-09-05 13:44:00.294669 [info]: timer tick
+2024-09-05 13:44:05.295494 [info]: timer tick
+2024-09-05 13:44:10.295767 [info]: timer tick
+2024-09-05 13:44:15.296179 [info]: timer tick
+2024-09-05 13:44:20.296920 [info]: timer tick
+2024-09-05 13:44:25.297321 [info]: timer tick
+2024-09-05 13:44:30.298302 [info]: timer tick
+2024-09-05 13:44:35.299203 [info]: timer tick
+2024-09-05 13:44:40.300132 [info]: timer tick
+2024-09-05 13:44:45.300585 [info]: timer tick
+2024-09-05 13:44:50.301064 [info]: timer tick
+2024-09-05 13:44:55.301436 [info]: timer tick
+2024-09-05 13:45:00.301673 [info]: timer tick
+2024-09-05 13:45:05.302876 [info]: timer tick
+2024-09-05 13:45:10.303839 [info]: timer tick
+2024-09-05 13:45:15.304349 [info]: timer tick
+2024-09-05 13:45:20.304731 [info]: timer tick
+2024-09-05 13:45:25.305647 [info]: timer tick
+2024-09-05 13:45:30.305944 [info]: timer tick
+2024-09-05 13:45:35.306358 [info]: timer tick
+2024-09-05 13:45:40.308151 [info]: timer tick
+2024-09-05 13:45:45.308904 [info]: timer tick
+2024-09-05 13:45:50.309826 [info]: timer tick
+2024-09-05 13:45:55.310609 [info]: timer tick
+2024-09-05 13:46:00.310862 [info]: timer tick
+2024-09-05 13:46:05.311851 [info]: timer tick
+2024-09-05 13:46:10.312309 [info]: timer tick
+2024-09-05 13:46:15.313169 [info]: timer tick
+2024-09-05 13:46:20.313253 [info]: timer tick
+2024-09-05 13:46:25.313817 [info]: timer tick
+2024-09-05 13:46:30.314623 [info]: timer tick
+2024-09-05 13:46:35.314732 [info]: timer tick
+2024-09-05 13:46:40.327645 [info]: timer tick
+2024-09-05 13:46:45.328132 [info]: timer tick
+2024-09-05 13:46:50.330244 [info]: timer tick
+2024-09-05 13:46:55.331047 [info]: timer tick
+2024-09-05 13:47:00.332051 [info]: timer tick
+2024-09-05 13:47:05.332421 [info]: timer tick
+2024-09-05 13:47:10.332704 [info]: timer tick
+2024-09-05 13:47:15.333801 [info]: timer tick
+2024-09-05 13:47:20.334899 [info]: timer tick
+2024-09-05 13:47:25.335113 [info]: timer tick
+2024-09-05 13:47:30.335674 [info]: timer tick
+2024-09-05 13:47:35.335946 [info]: timer tick
+2024-09-05 13:47:40.336793 [info]: timer tick
+2024-09-05 13:47:45.337972 [info]: timer tick
+2024-09-05 13:47:50.338866 [info]: timer tick
+2024-09-05 13:47:55.339528 [info]: timer tick
+2024-09-05 13:48:00.339898 [info]: timer tick
+2024-09-05 13:48:05.340568 [info]: timer tick
+2024-09-05 13:48:10.341453 [info]: timer tick
+2024-09-05 13:48:15.342272 [info]: timer tick
+2024-09-05 13:48:20.342381 [info]: timer tick
+2024-09-05 13:48:25.343380 [info]: timer tick
+2024-09-05 13:48:30.344132 [info]: timer tick
+2024-09-05 13:48:35.344508 [info]: timer tick
+2024-09-05 13:48:40.344742 [info]: timer tick
+2024-09-05 13:48:45.344813 [info]: timer tick
+2024-09-05 13:48:50.345887 [info]: timer tick
+2024-09-05 13:48:55.346314 [info]: timer tick
+2024-09-05 13:49:00.346814 [info]: timer tick
+2024-09-05 13:49:05.347342 [info]: timer tick
+2024-09-05 13:49:10.348186 [info]: timer tick
+2024-09-05 13:49:15.348868 [info]: timer tick
+2024-09-05 13:49:20.350709 [info]: timer tick
+2024-09-05 13:49:25.351795 [info]: timer tick
+2024-09-05 13:49:30.352762 [info]: timer tick
+2024-09-05 13:49:35.353528 [info]: timer tick
+2024-09-05 13:49:40.354271 [info]: timer tick
+2024-09-05 13:49:45.355011 [info]: timer tick
+2024-09-05 13:49:50.355658 [info]: timer tick
+2024-09-05 13:49:55.355791 [info]: timer tick
+2024-09-05 13:50:00.356397 [info]: timer tick
+2024-09-05 13:50:05.356949 [info]: timer tick
+2024-09-05 13:50:10.357601 [info]: timer tick
+2024-09-05 13:50:15.358206 [info]: timer tick
+2024-09-05 13:50:20.358710 [info]: timer tick
+2024-09-05 13:50:25.358884 [info]: timer tick
+2024-09-05 13:50:30.359467 [info]: timer tick
+2024-09-05 13:50:35.359853 [info]: timer tick
+2024-09-05 13:50:40.360553 [info]: timer tick
+2024-09-05 13:50:45.361267 [info]: timer tick
+2024-09-05 13:50:50.362348 [info]: timer tick
+2024-09-05 13:50:55.363229 [info]: timer tick
+2024-09-05 13:51:00.363721 [info]: timer tick
+2024-09-05 13:51:05.363892 [info]: timer tick
+2024-09-05 13:51:10.364948 [info]: timer tick
+2024-09-05 13:51:15.365359 [info]: timer tick
+2024-09-05 13:51:20.366382 [info]: timer tick
+2024-09-05 13:51:25.366741 [info]: timer tick
+2024-09-05 13:51:30.367008 [info]: timer tick
+2024-09-05 13:51:35.367937 [info]: timer tick
+2024-09-05 13:51:40.368293 [info]: timer tick
+2024-09-05 13:51:45.369029 [info]: timer tick
+2024-09-05 13:51:50.369435 [info]: timer tick
+2024-09-05 13:51:55.370285 [info]: timer tick
+2024-09-05 13:52:00.371357 [info]: timer tick
+2024-09-05 13:52:05.371458 [info]: timer tick
+2024-09-05 13:52:10.372293 [info]: timer tick
+2024-09-05 13:52:15.373064 [info]: timer tick
+2024-09-05 13:52:20.373600 [info]: timer tick
+2024-09-05 13:52:25.374168 [info]: timer tick
+2024-09-05 13:52:30.374566 [info]: timer tick
+2024-09-05 13:52:35.375020 [info]: timer tick
+2024-09-05 13:52:40.375890 [info]: timer tick
+2024-09-05 13:52:45.376951 [info]: timer tick
+2024-09-05 13:52:50.377510 [info]: timer tick
+2024-09-05 13:52:55.377769 [info]: timer tick
+2024-09-05 13:53:00.378443 [info]: timer tick
+2024-09-05 13:53:05.378876 [info]: timer tick
+2024-09-05 13:53:10.379625 [info]: timer tick
+2024-09-05 13:53:15.380527 [info]: timer tick
+2024-09-05 13:53:20.380612 [info]: timer tick
+2024-09-05 13:53:25.380727 [info]: timer tick
+2024-09-05 13:53:30.381494 [info]: timer tick
+2024-09-05 13:53:35.382453 [info]: timer tick
+2024-09-05 13:53:40.383458 [info]: timer tick
+2024-09-05 13:53:45.383576 [info]: timer tick
+2024-09-05 13:53:50.384383 [info]: timer tick
+2024-09-05 13:53:55.385439 [info]: timer tick
+2024-09-05 13:54:00.385949 [info]: timer tick
+2024-09-05 13:54:05.386249 [info]: timer tick
+2024-09-05 13:54:10.386508 [info]: timer tick
+2024-09-05 13:54:15.386680 [info]: timer tick
+2024-09-05 13:54:20.387449 [info]: timer tick
+2024-09-05 13:54:25.387908 [info]: timer tick
+2024-09-05 13:54:30.388572 [info]: timer tick
+2024-09-05 13:54:35.388956 [info]: timer tick
+2024-09-05 13:54:40.389291 [info]: timer tick
+2024-09-05 13:54:45.390298 [info]: timer tick
+2024-09-05 13:54:50.390981 [info]: timer tick
+2024-09-05 13:54:55.391626 [info]: timer tick
+2024-09-05 13:55:00.391694 [info]: timer tick
+2024-09-05 13:55:05.391814 [info]: timer tick
+2024-09-05 13:55:10.392419 [info]: timer tick
+2024-09-05 13:55:15.393126 [info]: timer tick
+2024-09-05 13:55:20.393207 [info]: timer tick
+2024-09-05 13:55:25.393339 [info]: timer tick
+2024-09-05 13:55:30.394060 [info]: timer tick
+2024-09-05 13:55:35.394147 [info]: timer tick
+2024-09-05 13:55:40.394629 [info]: timer tick
+2024-09-05 13:55:45.394739 [info]: timer tick
+2024-09-05 13:55:50.395651 [info]: timer tick
+2024-09-05 13:55:55.396027 [info]: timer tick
+2024-09-05 13:56:00.396325 [info]: timer tick
+2024-09-05 13:56:05.396559 [info]: timer tick
+2024-09-05 13:56:10.396962 [info]: timer tick
+2024-09-05 13:56:15.397722 [info]: timer tick
+2024-09-05 13:56:20.398315 [info]: timer tick
+2024-09-05 13:56:25.398587 [info]: timer tick
+2024-09-05 13:56:30.399234 [info]: timer tick
+2024-09-05 13:56:35.399293 [info]: timer tick
+2024-09-05 13:56:40.399927 [info]: timer tick
+2024-09-05 13:56:45.400483 [info]: timer tick
+2024-09-05 13:56:50.401082 [info]: timer tick
+2024-09-05 13:56:55.401324 [info]: timer tick
+2024-09-05 13:57:00.401506 [info]: timer tick
+2024-09-05 13:57:05.402820 [info]: timer tick
+2024-09-05 13:57:10.403678 [info]: timer tick
+2024-09-05 13:57:15.404047 [info]: timer tick
+2024-09-05 13:57:20.404147 [info]: timer tick
+2024-09-05 13:57:25.404670 [info]: timer tick
+2024-09-05 13:57:30.404779 [info]: timer tick
+2024-09-05 13:57:35.405235 [info]: timer tick
+2024-09-05 13:57:40.405715 [info]: timer tick
+2024-09-05 13:57:45.406113 [info]: timer tick
+2024-09-05 13:57:50.410659 [info]: timer tick
+2024-09-05 13:57:55.411694 [info]: timer tick
+2024-09-05 13:58:00.412323 [info]: timer tick
+2024-09-05 13:58:05.412503 [info]: timer tick
+2024-09-05 13:58:10.412702 [info]: timer tick
+2024-09-05 13:58:15.413277 [info]: timer tick
+2024-09-05 13:58:20.413385 [info]: timer tick
+2024-09-05 13:58:25.413605 [info]: timer tick
+2024-09-05 13:58:30.414458 [info]: timer tick
+2024-09-05 13:58:35.415427 [info]: timer tick
+2024-09-05 13:58:40.415773 [info]: timer tick
+2024-09-05 13:58:45.416068 [info]: timer tick
+2024-09-05 13:58:50.416371 [info]: timer tick
+2024-09-05 13:58:55.416972 [info]: timer tick
+2024-09-05 13:59:00.444831 [info]: timer tick
+2024-09-05 13:59:05.446000 [info]: timer tick
+2024-09-05 13:59:10.446563 [info]: timer tick
+2024-09-05 13:59:15.447317 [info]: timer tick
+2024-09-05 13:59:20.447690 [info]: timer tick
+2024-09-05 13:59:25.448702 [info]: timer tick
+2024-09-05 13:59:30.448770 [info]: timer tick
+2024-09-05 13:59:35.453832 [info]: timer tick
+2024-09-05 13:59:40.453956 [info]: timer tick
+2024-09-05 13:59:45.454350 [info]: timer tick
+2024-09-05 13:59:50.454954 [info]: timer tick
+2024-09-05 13:59:55.455640 [info]: timer tick
+2024-09-05 14:00:00.456879 [info]: timer tick
+2024-09-05 14:00:05.457820 [info]: timer tick
+2024-09-05 14:00:10.458422 [info]: timer tick
+2024-09-05 14:00:15.458996 [info]: timer tick
+2024-09-05 14:00:20.460005 [info]: timer tick
+2024-09-05 14:00:25.460463 [info]: timer tick
+2024-09-05 14:00:30.461119 [info]: timer tick
+2024-09-05 14:00:35.461802 [info]: timer tick
+2024-09-05 14:00:40.462345 [info]: timer tick
+2024-09-05 14:00:45.463307 [info]: timer tick
+2024-09-05 14:00:50.463539 [info]: timer tick
+2024-09-05 14:00:55.464545 [info]: timer tick
+2024-09-05 14:01:00.464977 [info]: timer tick
+2024-09-05 14:01:05.465102 [info]: timer tick
+2024-09-05 14:01:10.465716 [info]: timer tick
+2024-09-05 14:01:15.466184 [info]: timer tick
+2024-09-05 14:01:20.466799 [info]: timer tick
+2024-09-05 14:01:25.467667 [info]: timer tick
+2024-09-05 14:01:30.468329 [info]: timer tick
+2024-09-05 14:01:35.468570 [info]: timer tick
+2024-09-05 14:01:40.468855 [info]: timer tick
+2024-09-05 14:01:45.468955 [info]: timer tick
+2024-09-05 22:41:28.228845 [info]: timer tick
+2024-09-05 22:41:33.229340 [info]: timer tick
+2024-09-05 22:41:38.230087 [info]: timer tick
+2024-09-05 22:41:39.718408 [info]: deal with the client(192.168.216.128)
+2024-09-05 22:41:39.718560 [info]: GET / HTTP/1.1
+2024-09-05 22:41:39.718578 [info]: Host: 192.168.216.128:9010
+2024-09-05 22:41:39.718582 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:39.718587 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:39.718591 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 22:41:39.718594 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 22:41:39.718597 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:39.718601 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:39.718605 [info]: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:39.718608 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:39.718611 [info]: Connection: keep-alive
+2024-09-05 22:41:39.718615 [info]: Upgrade-Insecure-Requests: 1
+2024-09-05 22:41:39.718618 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-05 22:41:39.718622 [info]: 
+2024-09-05 22:41:39.718661 [info]: request:HTTP/1.1 200 OK
+
+2024-09-05 22:41:39.718671 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-09-05 22:41:39.718675 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2024-09-05 22:41:39.718679 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2024-09-05 22:41:39.718688 [info]: adjust timer once
+2024-09-05 22:41:39.719346 [info]: send data to the client(192.168.216.128)
+2024-09-05 22:41:39.719376 [info]: adjust timer once
+2024-09-05 22:41:39.898562 [info]: deal with the client(192.168.216.128)
+2024-09-05 22:41:39.898635 [info]: adjust timer once
+2024-09-05 22:41:39.898686 [info]: GET /favicon.ico HTTP/1.1
+2024-09-05 22:41:39.898710 [info]: Host: 192.168.216.128:9010
+2024-09-05 22:41:39.898716 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:39.898720 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:39.898724 [info]: Accept: image/avif,image/webp,*/*
+2024-09-05 22:41:39.898727 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2024-09-05 22:41:39.898731 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:39.898734 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:39.898738 [info]: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:39.898741 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:39.898745 [info]: Connection: keep-alive
+2024-09-05 22:41:39.898748 [info]: Referer: http://192.168.216.128:9010/
+2024-09-05 22:41:39.898752 [info]: oop!unknow header: Referer: http://192.168.216.128:9010/
+2024-09-05 22:41:39.898755 [info]: 
+2024-09-05 22:41:39.898778 [info]: request:HTTP/1.1 200 OK
+
+2024-09-05 22:41:39.898786 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-09-05 22:41:39.898789 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-09-05 22:41:39.898793 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-09-05 22:41:39.900079 [info]: send data to the client(192.168.216.128)
+2024-09-05 22:41:39.900108 [info]: adjust timer once
+2024-09-05 22:41:39.900124 [info]: close fd 16
+2024-09-05 22:41:43.231385 [info]: timer tick
+2024-09-05 22:41:48.243790 [info]: timer tick
+2024-09-05 22:41:53.244183 [info]: timer tick
+2024-09-05 22:41:57.543921 [info]: deal with the client(192.168.216.128)
+2024-09-05 22:41:57.543973 [info]: adjust timer once
+2024-09-05 22:41:57.544002 [info]: GET / HTTP/1.1
+2024-09-05 22:41:57.544010 [info]: Host: 192.168.216.128:9010
+2024-09-05 22:41:57.544016 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:57.544019 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:57.544023 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 22:41:57.544026 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 22:41:57.544030 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:57.544033 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:57.544036 [info]: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:57.544040 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:57.544043 [info]: Connection: keep-alive
+2024-09-05 22:41:57.544046 [info]: Upgrade-Insecure-Requests: 1
+2024-09-05 22:41:57.544049 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-05 22:41:57.544052 [info]: 
+2024-09-05 22:41:57.544403 [info]: request:HTTP/1.1 200 OK
+
+2024-09-05 22:41:57.544419 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-09-05 22:41:57.544423 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2024-09-05 22:41:57.544426 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2024-09-05 22:41:57.544677 [info]: send data to the client(192.168.216.128)
+2024-09-05 22:41:57.544691 [info]: adjust timer once
+2024-09-05 22:41:57.621576 [info]: deal with the client(192.168.216.128)
+2024-09-05 22:41:57.621652 [info]: adjust timer once
+2024-09-05 22:41:57.621700 [info]: GET /favicon.ico HTTP/1.1
+2024-09-05 22:41:57.621723 [info]: Host: 192.168.216.128:9010
+2024-09-05 22:41:57.621728 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:57.621732 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:41:57.621736 [info]: Accept: image/avif,image/webp,*/*
+2024-09-05 22:41:57.621739 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2024-09-05 22:41:57.621742 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:57.621746 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:41:57.621749 [info]: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:57.621752 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-09-05 22:41:57.621755 [info]: Connection: keep-alive
+2024-09-05 22:41:57.621759 [info]: Referer: http://192.168.216.128:9010/
+2024-09-05 22:41:57.621762 [info]: oop!unknow header: Referer: http://192.168.216.128:9010/
+2024-09-05 22:41:57.621765 [info]: 
+2024-09-05 22:41:57.621791 [info]: request:HTTP/1.1 200 OK
+
+2024-09-05 22:41:57.621802 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-09-05 22:41:57.621806 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-09-05 22:41:57.621809 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-09-05 22:41:57.622115 [info]: send data to the client(192.168.216.128)
+2024-09-05 22:41:57.622137 [info]: adjust timer once
+2024-09-05 22:41:57.622450 [info]: close fd 16
+2024-09-05 22:41:58.244833 [info]: timer tick
+2024-09-05 22:42:03.245910 [info]: timer tick
+2024-09-05 22:42:05.057865 [info]: deal with the client(127.0.0.1)
+2024-09-05 22:42:05.057920 [info]: adjust timer once
+2024-09-05 22:42:05.058256 [info]: GET / HTTP/1.1
+2024-09-05 22:42:05.058291 [info]: Host: 127.0.0.1:9010
+2024-09-05 22:42:05.058623 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:42:05.058638 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:42:05.058643 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 22:42:05.058647 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-09-05 22:42:05.058650 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:42:05.058653 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:42:05.058657 [info]: Accept-Encoding: gzip, deflate, br
+2024-09-05 22:42:05.058660 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-09-05 22:42:05.058663 [info]: Connection: keep-alive
+2024-09-05 22:42:05.058666 [info]: Upgrade-Insecure-Requests: 1
+2024-09-05 22:42:05.058670 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-09-05 22:42:05.058673 [info]: Sec-Fetch-Dest: document
+2024-09-05 22:42:05.058676 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-09-05 22:42:05.058679 [info]: Sec-Fetch-Mode: navigate
+2024-09-05 22:42:05.058682 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-09-05 22:42:05.058685 [info]: Sec-Fetch-Site: none
+2024-09-05 22:42:05.058689 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-09-05 22:42:05.058692 [info]: Sec-Fetch-User: ?1
+2024-09-05 22:42:05.058695 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-09-05 22:42:05.058698 [info]: 
+2024-09-05 22:42:05.058717 [info]: request:HTTP/1.1 200 OK
+
+2024-09-05 22:42:05.058726 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-09-05 22:42:05.058730 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2024-09-05 22:42:05.058734 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2024-09-05 22:42:05.058787 [info]: send data to the client(127.0.0.1)
+2024-09-05 22:42:05.058797 [info]: adjust timer once
+2024-09-05 22:42:05.082921 [info]: deal with the client(127.0.0.1)
+2024-09-05 22:42:05.083016 [info]: GET /favicon.ico HTTP/1.1
+2024-09-05 22:42:05.083030 [info]: Host: 127.0.0.1:9010
+2024-09-05 22:42:05.083035 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:42:05.083038 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+2024-09-05 22:42:05.083041 [info]: Accept: image/avif,image/webp,*/*
+2024-09-05 22:42:05.083045 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2024-09-05 22:42:05.083048 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:42:05.083051 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-09-05 22:42:05.083055 [info]: Accept-Encoding: gzip, deflate, br
+2024-09-05 22:42:05.083058 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-09-05 22:42:05.083061 [info]: Connection: keep-alive
+2024-09-05 22:42:05.083064 [info]: Referer: http://127.0.0.1:9010/
+2024-09-05 22:42:05.083067 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-09-05 22:42:05.083071 [info]: Sec-Fetch-Dest: image
+2024-09-05 22:42:05.083074 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-09-05 22:42:05.083077 [info]: Sec-Fetch-Mode: no-cors
+2024-09-05 22:42:05.083080 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-09-05 22:42:05.083083 [info]: Sec-Fetch-Site: same-origin
+2024-09-05 22:42:05.083086 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-09-05 22:42:05.083089 [info]: 
+2024-09-05 22:42:05.083102 [info]: request:HTTP/1.1 200 OK
+
+2024-09-05 22:42:05.083108 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-09-05 22:42:05.083111 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-09-05 22:42:05.083124 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-09-05 22:42:05.083146 [info]: adjust timer once
+2024-09-05 22:42:05.083190 [info]: send data to the client(127.0.0.1)
+2024-09-05 22:42:05.083200 [info]: adjust timer once
+2024-09-05 22:42:08.246944 [info]: timer tick
+2024-09-05 22:42:13.247742 [info]: timer tick

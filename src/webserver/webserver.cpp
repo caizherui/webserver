@@ -102,17 +102,9 @@ void WebServer::eventListen()
     m_listenfd = socket(PF_INET, SOCK_STREAM, 0);
     assert(m_listenfd >= 0);
 
-    //优雅关闭连接
-    if (0 == m_OPT_LINGER)
-    {
-        struct linger tmp = {0, 1};
-        setsockopt(m_listenfd, SOL_SOCKET, SO_LINGER, &tmp, sizeof(tmp));
-    }
-    else if (1 == m_OPT_LINGER)
-    {
-        struct linger tmp = {1, 1};
-        setsockopt(m_listenfd, SOL_SOCKET, SO_LINGER, &tmp, sizeof(tmp));
-    }
+    // 等待一段时间后，再关闭套接字
+    struct linger tmp = {1, 1};
+    setsockopt(m_listenfd, SOL_SOCKET, SO_LINGER, &tmp, sizeof(tmp));
 
     int ret = 0;
     struct sockaddr_in address;
@@ -197,39 +189,15 @@ bool WebServer::dealclientdata()
 {
     struct sockaddr_in client_address;
     socklen_t client_addrlength = sizeof(client_address);
-    if (0 == m_LISTENTrigmode)
-    {
-        int connfd = accept(m_listenfd, (struct sockaddr *)&client_address, &client_addrlength);
-        if (connfd < 0)
-        {
-            LOG_ERROR("%s:errno is:%d", "accept error", errno);
-            return false;
-        }
-        if (http_conn::m_user_count >= MAX_FD)
-        {
-            utils.show_error(connfd, "Internal server busy");
-            LOG_ERROR("%s", "Internal server busy");
-            return false;
-        }
-        timer(connfd, client_address);
-    }
 
-    else
-    {
+    // LT模式，无限制次数触发，所以不需要一定完成
+    if (0 == m_LISTENTrigmode) {
+        int connfd = accept(m_listenfd, (struct sockaddr *)&client_address, &client_addrlength);
+        timer(connfd, client_address);
+    } else { // ET模式，必须完成
         while (1)
         {
             int connfd = accept(m_listenfd, (struct sockaddr *)&client_address, &client_addrlength);
-            if (connfd < 0)
-            {
-                LOG_ERROR("%s:errno is:%d", "accept error", errno);
-                break;
-            }
-            if (http_conn::m_user_count >= MAX_FD)
-            {
-                utils.show_error(connfd, "Internal server busy");
-                LOG_ERROR("%s", "Internal server busy");
-                break;
-            }
             timer(connfd, client_address);
         }
         return false;
@@ -378,11 +346,6 @@ void WebServer::eventLoop()
     while (!stop_server)
     {
         int number = epoll_wait(m_epollfd, events, MAX_EVENT_NUMBER, -1);
-        if (number < 0 && errno != EINTR)
-        {
-            LOG_ERROR("%s", "epoll failure");
-            break;
-        }
 
         for (int i = 0; i < number; i++)
         {

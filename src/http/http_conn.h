@@ -24,36 +24,26 @@
 #include "../lock/lock.h"
 #include "../CGImysql/sql_connection_pool.h"
 #include "../timer/lst_timer.h"
-#include "../log/log.h"
 
-class http_conn
-{
+class http_conn {
 public:
     static const int FILENAME_LEN = 200;
     static const int READ_BUFFER_SIZE = 2048;
     static const int WRITE_BUFFER_SIZE = 1024;
-    enum METHOD
-    {
+    enum METHOD {
         GET = 0,
         POST,
-        HEAD,
-        PUT,
-        DELETE,
-        TRACE,
-        OPTIONS,
-        CONNECT,
-        PATH
     };
-    enum CHECK_STATE
-    {
-        CHECK_STATE_REQUESTLINE = 0,
-        CHECK_STATE_HEADER,
-        CHECK_STATE_CONTENT
+    
+    enum CHECK_STATE {
+        CHECK_STATE_REQUESTLINE = 0,    // 请求行
+        CHECK_STATE_HEADER,             // 请求头
+        CHECK_STATE_CONTENT             // 请求体
     };
-    enum HTTP_CODE
-    {
-        NO_REQUEST,
-        GET_REQUEST,
+
+    enum HTTP_CODE {
+        NO_REQUEST,         // 表示请求不完整，需要继续等待数据
+        GET_REQUEST,        // 表示获取到一个完整的 HTTP 请求
         BAD_REQUEST,
         NO_RESOURCE,
         FORBIDDEN_REQUEST,
@@ -61,31 +51,32 @@ public:
         INTERNAL_ERROR,
         CLOSED_CONNECTION
     };
-    enum LINE_STATUS
-    {
-        LINE_OK = 0,
+
+    // 用于解析http请求时每行的状态
+    enum LINE_STATUS {
+        LINE_OK = 0,    
         LINE_BAD,
         LINE_OPEN
     };
 
-public:
-    http_conn() {}
-    ~http_conn() {}
+    http_conn() {};
+    ~http_conn() {};
 
-public:
     void init(int sockfd, const sockaddr_in &addr, char *, int, string user, string passwd, string sqlname);
-    void close_conn(bool real_close = true);
+    void close_conn();
     void process();
     bool read_once();
     bool write();
-    sockaddr_in *get_address()
-    {
+    sockaddr_in *get_address() {
         return &m_address;
     }
     void initmysql_result(connection_pool *connPool);
     int timer_flag;
     int improv;
-
+    static int m_epollfd;
+    static int m_user_count;
+    MYSQL *mysql;
+    int m_state;  //读为0, 写为1
 
 private:
     void init();
@@ -107,16 +98,9 @@ private:
     bool add_linger();
     bool add_blank_line();
 
-public:
-    static int m_epollfd;
-    static int m_user_count;
-    MYSQL *mysql;
-    int m_state;  //读为0, 写为1
-
-private:
     int m_sockfd;
     sockaddr_in m_address;
-    char m_read_buf[READ_BUFFER_SIZE];
+    char m_read_buf[READ_BUFFER_SIZE]; // 
     long m_read_idx;
     long m_checked_idx;
     int m_start_line;
@@ -142,7 +126,6 @@ private:
 
     map<string, string> m_users;
     int m_TRIGMode;
-    int m_close_log;
 
     char sql_user[100];
     char sql_passwd[100];

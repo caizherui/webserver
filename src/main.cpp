@@ -1,19 +1,14 @@
 #include "config/config.h"
 
-int main(int argc, char *argv[])
-{
-    //命令行解析
+int main(int argc, char *argv[]) {
     Config config;
 
     WebServer server;
 
     //初始化
-    server.init(config.PORT, config.user, config.passwd, config.databasename, config.LOGWrite, 
+    server.init(config.PORT, config.user, config.passwd, config.databasename,
                 config.OPT_LINGER, config.TRIGMode,  config.sql_num,  config.thread_num, 
                 config.actor_model);
-
-    //日志
-    server.log_write();
 
     //数据库
     server.sql_pool();

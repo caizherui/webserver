@@ -10,29 +10,25 @@
 
 using namespace std;
 
-connection_pool::connection_pool()
-{
+connection_pool::connection_pool() {
 	m_CurConn = 0;
 	m_FreeConn = 0;
 }
 
-connection_pool *connection_pool::GetInstance()
-{
+connection_pool *connection_pool::GetInstance() {
 	static connection_pool connPool;
 	return &connPool;
 }
 
 //构造初始化
-void connection_pool::init(string url, string User, string PassWord, string DBName, int Port, int MaxConn)
-{
+void connection_pool::init(string url, string User, string PassWord, string DBName, int Port, int MaxConn) {
 	m_url = url;
 	m_Port = Port;
 	m_User = User;
 	m_PassWord = PassWord;
 	m_DatabaseName = DBName;
 
-	for (int i = 0; i < MaxConn; i++)
-	{
+	for (int i = 0; i < MaxConn; i++) {
 		MYSQL *con = NULL;
 		// 初始化数据库连接池
 		con = mysql_init(con);
@@ -48,8 +44,7 @@ void connection_pool::init(string url, string User, string PassWord, string DBNa
 
 
 //当有请求时，从数据库连接池中返回一个可用连接，更新使用和空闲连接数
-MYSQL *connection_pool::GetConnection()
-{
+MYSQL *connection_pool::GetConnection() {
 	MYSQL *con = NULL;
 	reserve.wait();
 
@@ -66,8 +61,7 @@ MYSQL *connection_pool::GetConnection()
 }
 
 //释放当前使用的连接
-bool connection_pool::ReleaseConnection(MYSQL *con)
-{
+bool connection_pool::ReleaseConnection(MYSQL *con) {
 	lock.lock();
 
 	connList.push_back(con);
@@ -81,15 +75,11 @@ bool connection_pool::ReleaseConnection(MYSQL *con)
 }
 
 //销毁数据库连接池
-void connection_pool::DestroyPool()
-{
-
+void connection_pool::DestroyPool() {
 	lock.lock();
-	if (connList.size() > 0)
-	{
+	if (connList.size() > 0) {
 		list<MYSQL *>::iterator it;
-		for (it = connList.begin(); it != connList.end(); ++it)
-		{
+		for (it = connList.begin(); it != connList.end(); ++it) {
 			MYSQL *con = *it;
 			mysql_close(con);
 		}
@@ -102,17 +92,15 @@ void connection_pool::DestroyPool()
 }
 
 //当前空闲的连接数
-int connection_pool::GetFreeConn()
-{
+int connection_pool::GetFreeConn() {
 	return this->m_FreeConn;
 }
 
-connection_pool::~connection_pool()
-{
+connection_pool::~connection_pool() {
 	DestroyPool();
 }
 
-connectionRAII::connectionRAII(MYSQL **SQL, connection_pool *connPool){
+connectionRAII::connectionRAII(MYSQL **SQL, connection_pool *connPool) {
 	*SQL = connPool->GetConnection();
 	
 	conRAII = *SQL;

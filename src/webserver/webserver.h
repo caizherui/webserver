@@ -26,12 +26,11 @@ public:
     ~WebServer();
 
     void init(int port , string user, string passWord, string databaseName,
-              int log_write , int opt_linger, int trigmode, int sql_num,
+              int opt_linger, int trigmode, int sql_num,
               int thread_num, int actor_model);
 
     void thread_pool();
     void sql_pool();
-    void log_write();
     void trig_mode();
     void eventListen();
     void eventLoop();

@@ -22,24 +22,21 @@
 #include <sys/uio.h>
 
 #include <time.h>
-#include "../log/log.h"
 
 class util_timer;
 
-struct client_data
-{
+struct client_data {
     sockaddr_in address;
     int sockfd;
     util_timer *timer;
 };
 
-class util_timer
-{
+class util_timer {
 public:
     util_timer() : prev(NULL), next(NULL) {}
 
 public:
-    time_t expire;
+    time_t expire; // 该定时器的超时时间
     
     void (* cb_func)(client_data *);
     client_data *user_data;
@@ -47,8 +44,7 @@ public:
     util_timer *next;
 };
 
-class sort_timer_lst
-{
+class sort_timer_lst {
 public:
     sort_timer_lst();
     ~sort_timer_lst();
@@ -65,8 +61,8 @@ private:
     util_timer *tail;
 };
 
-class Utils
-{
+// 管理定时器的工具
+class Utils {
 public:
     Utils() {}
     ~Utils() {}
